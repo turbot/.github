@@ -1,4 +1,4 @@
-## Security
+# Security
 
 We deeply appreciate any effort to discover and disclose security vulnerabilities responsibly.
 
